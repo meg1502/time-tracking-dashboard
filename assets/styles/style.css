@@ -1,0 +1,46 @@
+@import './variables.css';
+@import './typography.css';
+
+/* Basic Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Rubik', sans-serif;
+  background-color: var(--color-navy-950);
+  color: var(--color-white);
+}
+
+/* Base styles for list items */
+ul, ol {
+  list-style: none;
+}
+
+/* Base styles for images */
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+/* Base styles for inputs */
+input, button, textarea, select {
+  font: inherit;
+}
+
+/* Media Queries */
+
+/* Mobile (Default) */
+/* Styles for mobile devices are default */
+
+/* Tablet */
+@media (min-width: 768px) {
+  /* Tablet styles go here */
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  /* Desktop styles go here */
+}
