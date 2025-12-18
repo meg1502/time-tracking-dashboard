@@ -29,3 +29,18 @@ img, picture, video, canvas, svg {
 input, button, textarea, select {
   font: inherit;
 }
+
+/* Media Queries */
+
+/* Mobile (Default) */
+/* Styles for mobile devices are default */
+
+/* Tablet */
+@media (min-width: 768px) {
+  /* Tablet styles go here */
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  /* Desktop styles go here */
+}
