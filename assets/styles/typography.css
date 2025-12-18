@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+
+/* Text Presets */
+
+/* Preset 1: Rubik Light, 56px size, 66px line-height, 0px letter-spacing */
+.text-preset-1 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+  font-size: 56px;
+  line-height: 66px;
+  letter-spacing: 0px;
+}
+
+/* Preset 2: Rubik Light, 40px size, 47px line-height, 0px letter-spacing */
+.text-preset-2 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 47px;
+  letter-spacing: 0px;
+}
+
+/* Preset 3: Rubik Light, 32px size, 38px line-height, 0px letter-spacing */
+.text-preset-3 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 38px;
+  letter-spacing: 0px;
+}
+
+/* Preset 4: Rubik Light, 24px size, 28px line-height, 0px letter-spacing */
+.text-preset-4 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+/* Preset 5 (Medium): Rubik Medium, 18px size, 21px line-height, 0px letter-spacing */
+.text-preset-5-medium {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0px;
+}
+
+/* Preset 5 (Regular): Rubik Regular, 18px size, 21px line-height, 0px letter-spacing */
+.text-preset-5-regular {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0px;
+}
+
+/* Preset 6: Rubik Regular, 15px size, 18px line-height, 0px letter-spacing */
+.text-preset-6 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: 0px;
+}
